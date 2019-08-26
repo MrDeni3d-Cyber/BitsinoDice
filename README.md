@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Bitsino/BitsinoDice.svg?branch=master)](https://travis-ci.org/Bitsino/BitsinoDice)
+d[![Build Status](https://travis-ci.org/Bitsino/BitsinoDice.svg?branch=master)](https://travis-ci.org/Bitsino/BitsinoDice)
 
 ## Bitcoin Dice Gambling Site
 
